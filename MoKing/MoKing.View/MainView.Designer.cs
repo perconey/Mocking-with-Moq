@@ -1,6 +1,6 @@
 ﻿namespace MoKing.View
 {
-    partial class Form1
+    partial class MainView
     {
         /// <summary>
         /// Wymagana zmienna projektanta.
